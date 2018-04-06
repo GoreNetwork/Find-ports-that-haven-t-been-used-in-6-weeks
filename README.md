@@ -4,7 +4,7 @@ SSHs to a switch and looks at each port to see when the last input was, anything
 
 Example output
 
-Q:\Himes\Python in process\Junk work>python parse_output.py
+Q:\Himes\Python in process\Junk work>Look for unused ports.py
 Username: dhimes3-net
 Password:
 10.9.106.29  Unused Interfaces
